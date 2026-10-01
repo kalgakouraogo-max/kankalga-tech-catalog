@@ -1,5 +1,10 @@
 {
-  "formations": [],
+  "formations": [
+    {
+      "titre": "Formation informatique",
+      "description": "Apprenez les bases de l'informatique avec Kankalga Tech."
+    }
+  ],
   "fichiers": [],
   "serveurs": [],
   "annonces": []
